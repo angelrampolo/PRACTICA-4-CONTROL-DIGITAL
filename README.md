@@ -44,6 +44,6 @@ El laboratorio final integra todos los conceptos para implementar un controlador
 
 ## Demostración en Video
 
-* **[Video] Práctica 4.4: Demostración del Controlador PID:** [ENLACE A TU VIDEO DE YOUTUBE AQUÍ]
-* **[Video] Práctica 4.3: Control HMI y Botones Físicos:** [ENLACE A TU VIDEO DE YOUTUBE AQUÍ]
-* **[Video] Práctica 4.1: Secuencia de LEDs con Punteros:** [ENLACE A TU VIDEO DE YOUTUBE AQUÍ]
+* **[Video] Práctica 4.4: Demostración del Controlador PID:** https://youtube.com/shorts/ucIvYYmzMcY
+* **[Video] Práctica 4.3: Control HMI y Botones Físicos:** https://youtu.be/Bt7JbLiz9os
+* **[Video] Práctica 4.1: Secuencia de LEDs con Punteros:** https://youtube.com/shorts/cREll-wHnWU
